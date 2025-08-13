@@ -28,3 +28,6 @@ The game features **two circular layers of bubbles**, a **random target number**
     cd Hit-The-Bubble
 ### 2 Open the game
 Just open index.html in your browser — no installation required.
+
+## Play Online
+    https://p4l4k.github.io/Hit-The-Bubble/
