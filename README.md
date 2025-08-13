@@ -27,4 +27,4 @@ The game features **two circular layers of bubbles**, a **random target number**
     git clone https://github.com/P4L4K/Hit-The-Bubble.git
     cd Hit-The-Bubble
 ### 2 Open the game
-    Just open index.html in your browser — no installation required.
+Just open index.html in your browser — no installation required.
